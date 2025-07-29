@@ -89,10 +89,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hzhongl&theme=tokyo-night&hide_border=true&area=true" width="90%">
 </div>
 
-<!-- 贡献蛇形图 -->
-<div align="center">
-  <img src="https://github.com/hzhongl/hzhongl/blob/output/github-contribution-grid-snake-dark.svg" width="90%" alt="贡献蛇形图" />
-</div>
+
 
 <!-- 访问计数器 -->
 <div align="center">

@@ -92,7 +92,7 @@
 
 
 <!-- 访问计数器 -->
-<div align="center">
+<div align="center" width="90%">
   <img src="https://komarev.com/ghpvc/?username=hzhongl&label=访问量&color=6C5CE7&style=for-the-badge" alt="访问量统计" />
 </div>
 

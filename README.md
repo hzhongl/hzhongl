@@ -1,7 +1,7 @@
 <!-- 顶部动画横幅 -->
 <div align="center">
   <a href="https://github.com/hzhongl">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi%2C+I'm+hzhongl+%F0%9F%91%8B;全栈开发工程师;Java+%7C+Go+%7C+JavaScript+%7C+%7C+Vue" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi%2C+I'm+hzhongl+%F0%9F%91%8B;全栈开发工程师;Java+%7C+Go+%7C+JavaScript+%7C+Vue" alt="Typing SVG" />
   </a>
 </div>
 

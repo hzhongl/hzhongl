@@ -1,116 +1,113 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hzhongl&fontSize=90&animation=fadeIn&fontAlignY=38&desc=全栈开发工程师&descAlignY=55&descAlign=62" />
-</div>
-
+<!-- 顶部动画横幅 -->
 <div align="center">
   <a href="https://github.com/hzhongl">
-    <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <!-- 可以添加您的其他社交媒体链接 -->
-  <a href="mailto:您的邮箱@example.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi%2C+I'm+hzhongl+%F0%9F%91%8B;Full+Stack+Developer;Java+%7C+Go+%7C+JavaScript+%7C+TypeScript+%7C+Vue" alt="Typing SVG" />
   </a>
 </div>
 
-<br/>
-
+<!-- 技能动画展示 -->
 <div align="center">
-  <h2>🛠️ 我的技术栈</h2>
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
+    我的技术栈
+  </h2>
 </div>
 
-<br/>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+</p>
 
 <div align="center">
-  <table>
-    <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">后端开发</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-          <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">前端开发</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">开发工具</h3>
-        <div align="center">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <br>
+  <!-- 前端技能 -->
+  <h3>前端技能</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,html,css&theme=dark" />
+  <br>
+  <!-- 后端技能 -->
+  <h3>后端技能</h3>
+  <img src="https://skillicons.dev/icons?i=java,go,spring,mysql,redis&theme=dark" />
+  <br>
+  <!-- 开发工具 -->
+  <h3>开发工具</h3>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode,idea,linux&theme=dark" />
 </div>
 
-<br/>
+<!-- 自我介绍 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  关于我
+</h2>
 
 <div align="center">
-  <h2>💻 开源项目展示</h2>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CodingGif" width="300"/>
 </div>
 
-<br/>
-
 <div align="center">
+  <p>
+    🔭 我是一名全栈工程师，热爱编程和技术创新<br>
+    🌱 我擅长Java、Go语言后端开发，以及Vue、TypeScript前端开发<br>
+    ⚡ 我的开发理念：简洁高效的代码与优雅的用户体验<br>
+    👯 我热衷于参与开源项目，不断学习进步
+  </p>
+</div>
+
+<!-- 项目展示 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
+  开源项目
+</h2>
+
+<!-- 悬停展示项目卡片 -->
+<div class="container" align="center">
   <a href="https://github.com/hzhongl/easy-claude">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hzhongl&repo=easy-claude&theme=tokyonight&hide_border=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=hzhongl&repo=easy-claude&theme=tokyonight&hide_border=true&show_icons=true" />
   </a>
 </div>
 
-<br/>
+<br>
+
+<!-- 个人数据统计，带动画 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> 
+  我的统计
+</h2>
 
 <div align="center">
-  <details open>
-    <summary><b>✨ Easy-Claude 项目亮点</b></summary>
-    <br/>
-    <p>
-      <b>🎨 现代化UI设计</b>：支持明暗主题切换的美观界面<br/>
-      <b>🔄 多配置管理</b>：轻松切换和管理不同的API配置<br/>
-      <b>🚀 一键启动</b>：快速启动Claude并传递配置参数<br/>
-      <b>⚙️ 灵活配置</b>：直观的配置编辑与管理界面<br/>
-      <b>💾 自动保存</b>：自动保存配置信息，无需手动操作
-    </p>
-    <img src="https://user-images.githubusercontent.com/your-user-id/path-to-screenshot.png" width="70%" alt="Easy-Claude 截图" />
-  </details>
-</div>
-
-<br/>
-
-<!-- 如果有更多项目，可以按照上面的格式添加 -->
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hzhongl&theme=tokyo-night&hide_border=true" width="90%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hzhongl&theme=tokyonight&no-frame=true&row=1&column=6" width="90%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>📚 学习中的技术</h2>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/hzhongl/hzhongl/blob/output/github-contribution-grid-snake.svg" width="90%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hzhongl&theme=tokyonight&hide_border=true&background=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hzhongl&theme=buefy&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hzhongl&theme=tokyonight&hide_border=true" alt="GitHub统计" width="400" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hzhongl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hzhongl&show_icons=true&theme=buefy&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hzhongl&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub统计" width="400" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hzhongl&theme=tokyo-night&hide_border=true&area=true" width="90%">
+</div>
+
+<!-- 贡献蛇形图 -->
+<div align="center">
+  <img src="https://github.com/hzhongl/hzhongl/blob/output/github-contribution-grid-snake-dark.svg" width="90%" alt="贡献蛇形图" />
+</div>
+
+<!-- 访问计数器 -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hzhongl&label=访问量&color=6C5CE7&style=for-the-badge" alt="访问量统计" />
+</div>
+
+<!-- 联系方式 - 这部分可以根据用户选择是否保留 -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
+  联系我
+</h2>
+
+
+
+<!-- 底部动画 -->
+<div align="center">
+  <img height="120" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div> 
